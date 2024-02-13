@@ -1,0 +1,9 @@
+@media all and (min-width:768.999px){
+    h2{
+        font-size: 15px;
+    }
+    input{
+        font-size: 12px;
+        width: 85px;
+    }
+}
